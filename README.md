@@ -2,6 +2,10 @@
 
 I am starting 100 days of code now on 2023-03-06 at the advice of Kim from the Techlahoma Slack. I am also completing OKCoders bootcamp at the same time so it'll be an interesting mix of python, c++, and web development languages I'm sure.
 
+# Day 6 (2023-03-11)
+
+I attended the OKCoders bootcamp remotely today. I wanted to go in-person, but my girl friend convinced me to attend virtually because I have been sick all week. I got my butt kicked trying to make [this site](https://elementalcoffee.com/contact/) in a group. HTML/CSS seems so boring to do until you try to copy an existing site. I did HTML years ago when I was in highschool, but a lot has changed and I just haven't kept up. There are lots of little tricks and methods that I just don't know about. I'm going to have to attempt making the website again tomorrow from scratch to see if I can do it better. I'm not feeling very good at HTML after seeing my final product. On top of that, my CSS naming conventions need a lot of work. I find myself using the same names for multiple items. It gets confusing when I'm trying to remember which class was which. Lots to improve on.
+
 # Day 5 (2023-03-10)
 
 I've solved the issue of pushing as an "unknown" author in github. For some reason I didn't specify a global username/email pair. I continued work on the [pet-feeder](https://github.com/LarryL1991/pet-feeder) project today. I didn't get to spend a full hour on it today, but I did as much as I could in the short time that I had. I set up the code in a way to test transfers by reading transactions between different block heights with a max limit. Ideally I would like a transaction that is too large go towards an `excessXMR` variable which, if there's extra XMR in that variable it could be used to supplement transactions that are too small if the user wanted that.
